@@ -65,4 +65,5 @@ Run the notebooks to generate the **Interactive EDA** (`interactive_eda.html`) t
 
 ---
 
+> "Data confirms what history forgot: on the Titanic, people didn't die by class, they died by heart. My model captures that bond."
 *Built with ❤️ and 🤖 using Antigravity IA methodology.*

@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+shap
+plotly
+jupyter
+kaggle
+matplotlib
+seaborn
+xgboost
+openai
